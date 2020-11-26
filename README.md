@@ -11,4 +11,5 @@ I have also began setting the foundations for my passion project, my own game de
 - :mortar_board: BSc Software Development (November 2020) from CIT
 - :books: I’m currently learning machine learning, NLP, emotive/affective prosody analysis
 - 😄 Hobbies: gaming, reading, painting, archery, playing with dogs and spending quality time with friends and family.
-- ⚡ Fun fact: I speak 2 languages fluently english and french, and I used to study both Latin and Spanish.
+- ⚡ Fun fact: I speak 2 languages fluently English and French, and I used to study both Latin and Spanish.
+[![Zac's github stats](https://github-readme-stats.vercel.app/api?username=ZacDair)](https://github.com/anuraghazra/github-readme-stats)
