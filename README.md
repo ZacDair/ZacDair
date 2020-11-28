@@ -14,4 +14,5 @@ I have also began setting the foundations for my passion project, my own game de
 - ⚡ Fun fact: I speak 2 languages fluently English and French, and I used to study both Latin and Spanish.
 
 
-![Zac's github stats](https://github-readme-stats.vercel.app/api?username=ZacDair&count_private=false&theme=vue-dark&show_icons=true)
+![Zac's github stats](https://github-readme-stats.vercel.app/api?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacDair)]
