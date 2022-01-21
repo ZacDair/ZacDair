@@ -1,4 +1,5 @@
 ## Zachary Dair, BSc (Hons) Software Development ##
+### &emsp[Twitter](https://twitter.com/ZacDair)&emsp[Linkedin](https://www.linkedin.com/in/zachary-dair/)&emsp[ResearchGate](https://www.researchgate.net/profile/Zachary-Dair)&emsp ###  
 
 I'm Zac Dair, Advance CRT PhD student. I have a bachelors (hons) degree in software development, first class honors, from Munster Technological University.
 My main areas of interest are AI, Psychophysiology, Affective Computing, HCI and Game Development.
@@ -22,3 +23,4 @@ In the past I have worked as a customer support agent, as a computer science tut
 ## Publications ##
 [ISSC 2021](https://www.issc.ie/) Classification of Emotive Expression Using Verbal and Non Verbal Components of Speech [Link](https://ieeexplore.ieee.org/document/9467869)  
 [AICS 2021](http://aics2021.ucd.ie/) Linguistic and Gender Variation in Speech Emotion Recognition using Spectral Features [Link](https://arxiv.org/abs/2112.09596)  
+
