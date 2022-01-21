@@ -1,5 +1,5 @@
 ## Zachary Dair, BSc (Hons) Software Development ##
-### &emsp[Twitter](https://twitter.com/ZacDair)&emsp[Linkedin](https://www.linkedin.com/in/zachary-dair/)&emsp[ResearchGate](https://www.researchgate.net/profile/Zachary-Dair)&emsp ###  
+### &emsp [Twitter](https://twitter.com/ZacDair) &emsp [Linkedin](https://www.linkedin.com/in/zachary-dair/) &emsp [ResearchGate](https://www.researchgate.net/profile/Zachary-Dair) &emsp ###  
 
 I'm Zac Dair, Advance CRT PhD student. I have a bachelors (hons) degree in software development, first class honors, from Munster Technological University.
 My main areas of interest are AI, Psychophysiology, Affective Computing, HCI and Game Development.
