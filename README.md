@@ -1,14 +1,13 @@
-### Zachary Dair, BSc (Hons) Software Development
+## Zachary Dair, BSc (Hons) Software Development ##
 
-I'm Zac Dair, Advance CRT PhD Candidate. I recently (June 2021) attained a first class honors for my bachelors degree in software development in Munster Technological University.
-My main areas of interest are AI, Game Development, Machine and Deep Learning, NLP and Contextual Analysis.
+I'm Zac Dair, Advance CRT PhD student. I have a bachelors (hons) degree in software development, first class honors, from Munster Technological University.
+My main areas of interest are AI, Psychophysiology, Affective Computing, HCI and Game Development.
 
-Currently I'm exploring the research domain of affective computing, more specifically emotion detection from speech in a bi-modal manner.
-I co-authored a paper for the [ISSC 2021](https://www.issc.ie/) conference, which can be found [here](https://www.researchgate.net/publication/351819836_Classification_of_Emotive_Expression_Using_Verbal_and_Non_Verbal_Components_of_Speech), and is currently being expanded to aid my PhD research.
+Currently I'm exploring the research domain of affective computing, I've dabbled in aspects of emotion recognition from speech.
+More information on that can be found in my publications - [ISSC 2021](https://www.issc.ie/) and [AICS 2021](http://aics2021.ucd.ie/)  
+The research I am currently focused on is the usage of physiological signals for increasing the personalization of healthcare with wearable technology.  
 
 In the past I have worked as a customer support agent, as a computer science tutor, and as an software development intern in McKesson (Fortune 7 Company).
-I have also began setting the foundations for my passion project, my own game development company, which I hope to grow and develop fully after I finish my studies.
-
 
 
 - :mortar_board: BSc Software Development (November 2020) from CIT
@@ -19,3 +18,7 @@ I have also began setting the foundations for my passion project, my own game de
 
 ![Zac's github stats](https://github-readme-stats.vercel.app/api?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true&hide=assembly)
+
+## Publications ##
+[ISSC 2021](https://www.issc.ie/) Classification of Emotive Expression Using Verbal and Non Verbal Components of Speech [Link](https://ieeexplore.ieee.org/document/9467869)  
+[AICS 2021](http://aics2021.ucd.ie/) Linguistic and Gender Variation in Speech Emotion Recognition using Spectral Features [Link](https://arxiv.org/abs/2112.09596)  
