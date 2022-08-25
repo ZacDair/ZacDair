@@ -4,16 +4,17 @@
 I'm Zac Dair, Advance CRT PhD student. I have a bachelors (hons) degree in software development, first class honors, from Munster Technological University.
 My main areas of interest are AI, Psychophysiology, Affective Computing, HCI and Game Development.
 
-Currently I'm exploring the research domain of affective computing, I've dabbled in aspects of emotion recognition from speech.
+Currently I'm exploring the research domain of Affective Computing, I've dabbled in aspects of emotion recognition from speech.
 More information on that can be found in my publications - [ISSC 2021](https://www.issc.ie/) and [AICS 2021](http://aics2021.ucd.ie/)  
-The research I am currently focused on is the usage of physiological signals for increasing the personalization of healthcare with wearable technology.  
+The research I am currently focused on the usage of physiological signals for increasing the personalization of healthcare with wearable technology.  
 
 In the past I have worked as a customer support agent, as a computer science tutor, and as an software development intern in McKesson (Fortune 7 Company).
 
 
 - :mortar_board: BSc Software Development (November 2020) from CIT
-- :books: I’m currently researching machine learning, NLP, emotive/affective prosody analysis
-- 😄 Hobbies: gaming, reading, painting, archery, playing with dogs and spending quality time with friends and family.
+- :mortar_board: BSc (Hons) Software Development (November 2021) from MTU
+- :books: I’m currently researching psychophysiological analysis, affective computing, machine learning and complex adaptive systems.
+- 😄 Hobbies: gaming, reading, painting, archery, playing with my dogs and spending quality time with friends and family.
 - ⚡ Fun fact: I speak 2 languages fluently English and French, and I used to study both Latin and Spanish.
 
 
