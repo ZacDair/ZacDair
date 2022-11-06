@@ -14,7 +14,7 @@ In the past I have worked as a customer support agent, as a computer science tut
 - :mortar_board: BSc Software Development (November 2020) from CIT
 - :mortar_board: BSc (Hons) Software Development (November 2021) from MTU
 - :books: I’m currently researching psychophysiological analysis, affective computing, machine learning and complex adaptive systems.
-- 😄 Hobbies: gaming, reading, painting, archery, playing with my dogs and spending quality time with friends and family.
+- 😄 Hobbies: 1. Game Development, 2. Archery, 3. Gaming 
 - ⚡ Fun fact: I speak 2 languages fluently English and French, and I used to study both Latin and Spanish.
 
 
