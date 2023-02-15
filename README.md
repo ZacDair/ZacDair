@@ -18,7 +18,7 @@ In the past I have worked as a customer support agent, as a computer science tut
 - ⚡ Fun fact: I speak 2 languages fluently English and French, and I used to study both Latin and Spanish.
 
 
-![Zac's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true)
+![Zac's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true&hide=assembly)
 
 ## Publications ##
